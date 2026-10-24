@@ -118,7 +118,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             style={{ fontSize: 'clamp(0.75rem, 1.4vw, 1.5rem)' }}
             className="text-[#D7E2EA] font-light uppercase tracking-wide leading-snug max-w-[160px] sm:max-w-[220px] md:max-w-[260px]"
           >
-            a studio specializing in software development, web applications, and innovative digital solutions.
+            A studio specializing in software development, web applications, and innovative digital solutions.
         </FadeIn>
 
         <FadeIn delay={0.5} y={20} className="shrink-0">
