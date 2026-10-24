@@ -101,7 +101,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             className="w-full flex justify-center"
           >
             <img
-              src="https://i.imgur.com/G9oDriL.png"
+              src="/assets/aistudio/falo-neon-star-isolated.png"
               alt="Falo 3D Neon Glass Star Emblem"
               referrerPolicy="no-referrer"
               className="w-full h-auto object-contain select-none pointer-events-none drop-shadow-[0_15px_45px_rgba(182,0,168,0.45)] drop-shadow-[0_30px_70px_rgba(89,230,252,0.3)] filter brightness-105"
@@ -118,8 +118,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             style={{ fontSize: 'clamp(0.75rem, 1.4vw, 1.5rem)' }}
             className="text-[#D7E2EA] font-light uppercase tracking-wide leading-snug max-w-[160px] sm:max-w-[220px] md:max-w-[260px]"
           >
-            a modern technology studio specializing in software development, web applications, and innovative digital solutions that help businesses grow and succeed in the digital world.
-          </p>
+            a studio specializing in software development, web applications, and innovative digital solutions.
         </FadeIn>
 
         <FadeIn delay={0.5} y={20} className="shrink-0">
