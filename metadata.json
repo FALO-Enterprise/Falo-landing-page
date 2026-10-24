@@ -1,0 +1,6 @@
+{
+  "name": "Falo -- 3D Creator",
+  "description": "3D Creator portfolio landing page for Falo featuring striking 3D projects, interactive magnetic emblem, scroll marquees, fluid typography, and sticky-stacking case studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
