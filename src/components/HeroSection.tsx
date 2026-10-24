@@ -101,7 +101,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             className="w-full flex justify-center"
           >
             <img
-              src="/assets/aistudio/falo-neon-star-isolated.png"
+              src="https://i.imgur.com/G9oDriL.png"
               alt="Falo 3D Neon Glass Star Emblem"
               referrerPolicy="no-referrer"
               className="w-full h-auto object-contain select-none pointer-events-none drop-shadow-[0_15px_45px_rgba(182,0,168,0.45)] drop-shadow-[0_30px_70px_rgba(89,230,252,0.3)] filter brightness-105"
